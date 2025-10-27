@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(252, 249, 249);
+
+}
+
+header {
+    background-color: rgb(240, 240, 240);
+    color: black;
+}
+
+.nav .nav-link.nav-link.active{
+    background-color: rgb(224, 225, 226);
+    color: black;
+}
+
+.nav li a {
+    color: black;
+}
+
+#PRAIA h2{
+    font-family: "Parisienne", cursive;
+    font-size: 60px;
+}
+
+
+footer{
+    background-color: rgb(240, 240, 240);
+}
+
+#SOCIAL li a{
+    color: black;
+}
+
+#social-links a {
+    text-decoration: none;
+}
+
+#SOCIAL li {
+    list-style: none;
+}
